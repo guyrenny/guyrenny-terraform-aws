@@ -20,6 +20,8 @@ module "locals_variables" {
   random_string    = random_string.id.result
 }
 
+
+
 resource "random_string" "id" {
   length  = 7
   lower   = true

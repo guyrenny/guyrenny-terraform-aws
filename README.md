@@ -2,6 +2,8 @@
 
 Coralogix provides multiple Terraform modules that allows you to send your metrics and logs from AWS to your coralogix account using AWS lambda
 
+
+
 ## Integrations
 Coralogix provides the following integration:
 
